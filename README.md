@@ -2,7 +2,7 @@
 
 ## 🚀 Senior Business Intelligence Analyst focusing on applied data science.
 
-**📍 United States**     **🔗 LinkedIn: cailinklein**     **👨‍💻 GitHub: niliacklein33**
+**📍 United States**     **🔗 LinkedIn: cailinklein**     **👩‍💻 GitHub: niliacklein33**
 
 ## **About Me 🌐**
 I'm a big data nerd with over 6 years of experience in Data Analysis, ETL, ML, and Predictive Intelligence. I sculpt data into actionable insights.
